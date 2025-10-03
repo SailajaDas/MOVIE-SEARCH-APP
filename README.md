@@ -1,16 +1,43 @@
-# React + Vite
+# MOVIE SEARCH APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*COMPANY*: CODTECH IT SOLUTIONS 
 
-Currently, two official plugins are available:
+*NAME*:MUZAMMIL AHMED
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*INTERN ID*:CT04DY2061
 
-## React Compiler
+*DOMAIN*:REACT.JS WEB DEVELOPMENT
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*DURATION*:4 WEEKS
 
-## Expanding the ESLint configuration
+*MENTOR*:NEELA SANTHOSH KUMAR
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+** The Movie Search App is a modern, responsive web application built using React that allows users to search for movies, view detailed information, and save their favorite films for quick access. Designed with a clean and intuitive user interface, the app leverages a public movie API, such as OMDb (Open Movie Database), to fetch real-time movie data. This project demonstrates practical knowledge of React development, API integration, state management, and user interface design.
+
+## Features
+** Search Movies:Users can search for movies by title using a dynamic search bar. As users type, the app fetches relevant results from the OMDb API, displaying movie titles, release years, poster images, and short descriptions.
+
+** Movie Details: Clicking on a movie opens a detailed view that includes comprehensive information such as the full plot, cast, director, genre, runtime, IMDb rating, and release year. This allows users to make informed decisions about which movies to watch or add to their favorites.
+
+** Save Favorites:The app allows users to save their favorite movies for future reference. Favorites are stored locally, enabling users to access their curated list anytime without requiring an account or login. The UI includes options to add or remove movies from the favorites list easily.
+
+** Responsive Design:The app is fully responsive, providing a seamless experience across devices, including desktops, tablets, and mobile phones. The layout adjusts dynamically to different screen sizes, ensuring readability and usability on all platforms.
+
+** Clean and Interactive UI:Using modern CSS and UI libraries, the application offers a visually appealing and user-friendly interface. Movie cards, search results, and detailed views are designed to be engaging, with smooth transitions and interactive elements enhancing the overall user experience.
+
+** API Integration:The app demonstrates effective API consumption by fetching movie data from OMDb. It handles asynchronous requests, manages loading states, and gracefully handles errors such as no results found or network issues.
+
+** State Management:React’s useState and useEffect hooks are used extensively to manage component states, API data, and user interactions. The favorites functionality demonstrates persistent state management using local storage.
+
+** Scalable Architecture:The project is structured for scalability, with reusable components such as MovieCard, MovieDetail, SearchBar, and FavoritesList. This modular design allows for easy addition of new features and enhancements in the future.
+
+## Technologies Used
+
+** React – Frontend library for building dynamic UI
+
+** OMDb API – Public movie database API for fetching movie details
+
+** Tailwind CSS – Styling and responsive design
+
+##OUTPUT
+
