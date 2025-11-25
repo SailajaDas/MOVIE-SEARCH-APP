@@ -1,17 +1,5 @@
 # MOVIE SEARCH APP(CINE SEARCH)
 
-*COMPANY*: CODTECH IT SOLUTIONS 
-
-*NAME*:MUZAMMIL AHMED
-
-*INTERN ID*:CT04DY2061
-
-*DOMAIN*:REACT.JS WEB DEVELOPMENT
-
-*DURATION*:4 WEEKS
-
-*MENTOR*:NEELA SANTHOSH KUMAR
-
 ** The Movie Search App is a modern, responsive web application built using React that allows users to search for movies, view detailed information, and save their favorite films for quick access. Designed with a clean and intuitive user interface, the app leverages a public movie API, such as OMDb (Open Movie Database), to fetch real-time movie data. This project demonstrates practical knowledge of React development, API integration, state management, and user interface design.
 
 ## Features
